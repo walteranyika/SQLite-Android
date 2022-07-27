@@ -41,4 +41,10 @@ class UpdateActivity : AppCompatActivity() {
             }
         }
     }
+
+    //We will finish search and delete
+
+    //git add .
+    //git commit -m "Added display activity"
+    //git push origin master
 }
